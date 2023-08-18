@@ -1,0 +1,13 @@
+# folders
+.vscode/
+data/
+models/
+runs/
+visualizations/
+__pycache__/
+/results/
+
+# files
+*.zip
+*.out
+.csv
