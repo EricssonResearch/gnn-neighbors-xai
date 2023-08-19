@@ -1,14 +1,5 @@
 # GNN Neighbors XAI
-This if the official implementation of [Explainability for identifying the most important neighbors in Graph Neural Networks](https://openreview.net/forum?id=AMQxWViFl3&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3Dlogconference.io%2FLOG%2F2023%2FConference%2FAuthors%23your-submissions)):
-
-```
-@article{llorenteExplainabilityIdentifyingMost2023,
-  title = {Explainability for Identifying the Most Important Neighbors in {{Graph Neural Networks}}},
-  author = {Llorente, Oscar and Vaderna, P{\'e}ter and Laki, S{\'a}ndor and Roland, Kotrocz{\'o} and Csoma, Rita and {Szalai-Gind}, J{\'a}nos M{\'a}rk},
-  year = {2023},
-  month = jul,
-}
-```
+This if the official implementation of [Explainability for identifying the most important neighbors in Graph Neural Networks](https://openreview.net/forum?id=AMQxWViFl3&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3Dlogconference.io%2FLOG%2F2023%2FConference%2FAuthors%23your-submissions)).
 
 ## Structure
 
@@ -28,6 +19,10 @@ All the code of this repo is inside the src folder. This folder contains a utils
 ## Dependencies
 
 Are listed in the requirements file. For installing them just run:
+
+```
+pip install -r requirements.txt
+```
 
 
 ## How to run the experiments
