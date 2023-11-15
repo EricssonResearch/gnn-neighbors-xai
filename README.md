@@ -1,5 +1,5 @@
 # GNN Neighbors XAI
-This if the official implementation of [Explainability for identifying the most important neighbors in Graph Neural Networks](https://openreview.net/forum?id=AMQxWViFl3&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3Dlogconference.io%2FLOG%2F2023%2FConference%2FAuthors%23your-submissions)).
+This if the official implementation of [Evaluating Neighbor Explainability for Graph Neural Networks](https://arxiv.org/abs/2311.08118)).
 
 ## Structure
 
